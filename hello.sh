@@ -1,8 +1,4 @@
 #!/bin/bash
 clear;
-echo "Hello World!";
-exit
+echo "Hello, World!";
 exit;
-exit;
-;
-
